@@ -20,3 +20,7 @@
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/dener-gomes-772423229/) | [Email](gdener557@gmail.com)
+
+![Snake animation](https://github.com/Denergomes/Denergomes/blob/output/snake.svg)
+
+![snake gif](https://github.com/Denergomes/debergomes/blob/output/github-contribution-grid-snake.svg)
